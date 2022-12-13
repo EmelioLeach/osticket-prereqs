@@ -48,7 +48,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 Next we will install these items that are required for the osticketing system to work 
 </p><img src=https://i.imgur.com/52biG6y.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<p>
+Now we can use IIS to browse 80 folder and osTicket installer should pop up its own webpage.PHP is a programming language and uses a mysql database to store information.
+
+
 <img src=https://i.imgur.com/baw1rsr.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
