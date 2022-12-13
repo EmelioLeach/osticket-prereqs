@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
+<p> Hello welcome to my first tutorial! First we must have an active subscription with Azure to create a resource group and a virtual machine. The VM will protect our actual computer while we use the remote computer to setup a osticketing system. 
 <img src=https://i.imgur.com/8aYi62y.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
