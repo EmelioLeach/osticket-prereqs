@@ -38,7 +38,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   Next we will use the public ip address from the vm to connect into and install ISS by opening the control panal from the start menu.Select turn windows features on or off at the top left and enable Internet Information Services.
 <img src=https://i.imgur.com/giNG5GS.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-</p>Download Web Platform installer this helps other web appilications run smoothly
+</p>Download Web Platform installer this helps other web applications run smoothly
 <br />
 
 <p>
