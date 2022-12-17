@@ -54,7 +54,7 @@ Now we can use IIS to browse 80 folder and osTicket installer should pop up its 
 <img src=https://i.imgur.com/baw1rsr.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now we can go into IIS and open PhP managenment and navigate down to OSticket, so that we can enable php_intl.dll and php_opcache.dll
+Now we can go into IIS and open PhP managenment and navigate down to OSticket, so that we can enable php_intl.dll and php_opcache.dll. We should be able to refresh Osticket now
 </p>
 <img src=https://i.imgur.com/SXhmCFb.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
