@@ -64,9 +64,11 @@ Next we will go threw files on Windows (C:) and go to include in the osticket an
 <img src=https://i.imgur.com/85kpZjm.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- Right click on ost-config.php open security and then advance so you can disable inheritance, this way you can remove all and add our own inheritance. Also principal is antoher name for an account that you can give full control to if you would like.
+Right click on ost-config.php open security and then advance so you can disable inheritance, this way you can remove all and add our own inheritance. Also principal is antoher name for an account that you can give full control to if you would like.
 <p>
 <img src=https://i.imgur.com/0cwNfVJ.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>  
 <p>
- 
+You should now be able to fill out the helpdesk information that will alllow you to recieve tickets orders from customers.
+<p>
+<img src=https://i.imgur.com/n7t2HHg.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
