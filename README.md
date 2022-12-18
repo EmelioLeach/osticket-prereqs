@@ -69,6 +69,10 @@ Right click on ost-config.php open security and then advance so you can disable 
 <img src=https://i.imgur.com/0cwNfVJ.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>  
 <p>
-You should now be able to fill out the helpdesk information that will alllow you to recieve tickets orders from customers.
+You should now be able to fill out the helpdesk information that will alllow you to recieve tickets orders from customers. Also download HeidisSQL so that you can finsih up the database settings.
 <p>
 <img src=https://i.imgur.com/n7t2HHg.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/kWMOr6y.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
