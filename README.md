@@ -78,3 +78,12 @@ You should now be able to fill out the helpdesk information that will alllow you
 On HeidiSQL create a new connection and use root as the user and Password1 for the password that we created in the beginning of the lab. Right click on Unnamed create a new database with the name osTicket   
 <p>
 <img src=https://i.imgur.com/RM9FOW3.png height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>
+<p>
+You should be able to type in the database connection info now and install.
+<p>
+<img src=https://i.imgur.com/27EO5G3.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ </p>
+ <p>
+ Congrulations you've successfully installed osticket system.
+ <img src=https://i.imgur.com/aWEmS3z.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
