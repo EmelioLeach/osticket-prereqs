@@ -64,4 +64,7 @@ Next we will go threw files on Windows (C:) and go to include in the osticket an
 <img src=https://i.imgur.com/85kpZjm.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- 
+ Right click on ost-config.php open security and then advance so you can disable inheritance.
+<p>
+<img src=https://i.imgur.com/0cwNfVJ.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
