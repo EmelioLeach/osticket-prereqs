@@ -45,7 +45,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src=https://i.imgur.com/sspi8MP.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next we will install these items that are required for the osticketing system to work 
+Next we will install these items that are required for the osticketing system to work. 
 </p><img src=https://i.imgur.com/52biG6y.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Now we can use IIS to browse 80 folder and osTicket installer should pop up its own webpage.PHP is a programming language and uses a mysql database to store information.
@@ -54,9 +54,11 @@ Now we can use IIS to browse 80 folder and osTicket installer should pop up its 
 <img src=https://i.imgur.com/baw1rsr.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now we can go into IIS and open PhP managenment and navigate down to OSticket, so that we can enable php_intl.dll and php_opcache.dll. We should be able to refresh Osticket now
+Now we can go into IIS and open PhP managenment and navigate down to OSticket, so that we can enable php_intl.dll and php_opcache.dll. We should be able to refresh osticket now.
 </p>
 <img src=https://i.imgur.com/SXhmCFb.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  
+Next we will go threw files on Windows (C:) and go to include in the osticket and change ost-sampleconfig.php into ost-config.php
+<p>
+<img src=https://i.imgur.com/85kpZjm.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
