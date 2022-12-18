@@ -59,6 +59,9 @@ Now we can go into IIS and open PhP managenment and navigate down to OSticket, s
 <img src=https://i.imgur.com/SXhmCFb.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next we will go threw files on Windows (C:) and go to include in the osticket and change ost-sampleconfig.php into ost-config.php
+Next we will go threw files on Windows (C:) and go to include in the osticket and change ost-sampleconfig.php into ost-config.php.
 <p>
 <img src=https://i.imgur.com/85kpZjm.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 
